@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+models/*.joblib
+plots/*.png
+.pytest_cache/
